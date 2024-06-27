@@ -28,7 +28,7 @@ public class StudentManagementSystem {
                 System.out.print("Choose an option: ");
 
                 int option = scanner.nextInt();
-                scanner.nextLine(); // consume newline
+                scanner.nextLine(); 
 
                 switch (option) {
                     case 1:
